@@ -13,6 +13,6 @@ ruby lib/uotila.rb
 Add require 'uotila' to start of your code. Uotila will be executed as soon as it is loaded. This method is good if you are incuding Uotila to your command line tool made with Ruby.
 
 ### Credits
-Original Uotila node package is made by Wille [@villeristi](https://github.com/villeristi)
+Original Uotila node package [https://github.com/villeristi/uotila](https://github.com/villeristi/uotila) is made by Wille [@villeristi](https://github.com/villeristi)
 
 ![alt text](http://upload.wikimedia.org/wikipedia/commons/7/74/Rauman_mlk.vaakuna.svg "Uotila <3")
