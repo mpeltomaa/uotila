@@ -2,7 +2,7 @@
 
 ### Installation
 1. `gem install ./releases/uotila-0.1.gem`
-2. OSX doesn't ship with `Cellos` anymore so you need to some magic first. Go to System Preferences => Accessibility => Speech => System Voice => Customize... & search for `Cellos`
+2. OSX doesn't ship with `Cellos` anymore so you need to do some magic first. Go to System Preferences => Accessibility => Speech => System Voice => Customize... & search for `Cellos`
 
 ### Enjoy!
 
